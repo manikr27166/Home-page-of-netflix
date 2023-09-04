@@ -3,8 +3,8 @@
 This repository contains the code for building a Netflix-inspired home page using HTML and CSS. The project aims to recreate the visual design and layout of the Netflix home page, providing a starting point for creating similar interfaces or learning web development techniques.
 
 ## Preview
+![WhatsApp Image 2023-09-04 at 21 23 03](https://github.com/manikr27166/Home-page-of-netflix/assets/104547367/85130d13-01c3-4d81-86f4-3ed31fb11f99)
 
-![image](https://github.com/Alok-2002/Netflix_Home_Page_Using_HTML_And_CSS/assets/93814546/4959b8ef-266f-4194-8709-b90223d69b2e)
 
 ## Features
 
@@ -46,8 +46,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-- Your Name : Prabhas Javvadi
-- Email:Prabhasjavvadi433@gmail.com
+- Your Name : NEYYALA MANIKANTA
+- Email:nn7853@srmist.edu.in
 
 ---
 
